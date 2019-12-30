@@ -9,3 +9,5 @@ Is a framework for the analysis of fund returns that looks at the risk-adjusted 
 
 ## 2. Simple Financial Database
 Is a program written using object-oriented programming that returns certain info about stocks or a number of stocks (volume, price, industry sector).
+
+## 3. Taylor Rule Implementation
